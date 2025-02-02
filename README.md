@@ -1,4 +1,4 @@
-# 🚀 Craft & Cross - A Physics-Based Crafting Game
+# 🚀 Cross The Gap - A Physics-Based Crafting Game
 
 **Craft & Cross** is a physics-based puzzle game where players design and build vehicles to overcome obstacles and traverse gaps. With a flexible crafting system, players can combine different components to create the ultimate contraption capable of making it to the other side.
 
